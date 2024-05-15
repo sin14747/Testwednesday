@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ *king
  * @author kulde
  */
 class Student {
