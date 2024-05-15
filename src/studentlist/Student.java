@@ -8,6 +8,7 @@ package studentlist;
  *king
  * @author kulde
  */
+/*Checking merge*/
 class Student {
 
     private String name;
